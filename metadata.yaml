@@ -1,0 +1,33 @@
+_repo: Vacuum-cleaning-systems-b-A-treatise-on-the-principles-and-practice-of-mechanical-cleaning_70409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooley, M. S. (Maxwell Stephens)
+    alias: Cooley, Maxwell Stephens
+    birthdate: 1874
+    gutenberg_agent_id: '55747'
+    url: http://www.gutenberg.org/2009/agents/55747
+description: ''
+gutenberg_issued: '2023-03-29'
+identifiers:
+  gutenberg: '70409'
+  lccn: '14000970'
+language: en
+pgterms:marc904: https://archive.org/details/vacuumcleaningsy00coolrich
+pgterms:marc905: 20210705054226cooley
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: deaurider, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bHeatin and Ventilation Magazine Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vacuum cleaning'
+- !lcc 'TH'
+- GITenberg
+title: 'Vacuum cleaning systems : $b A treatise on the principles and practice of
+  mechanical cleaning'
+url: http://www.gutenberg.org/ebooks/70409
