@@ -1,5 +1,8 @@
 _repo: Vacuum-cleaning-systems-b-A-treatise-on-the-principles-and-practice-of-mechanical-cleaning_70409
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70409-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooley, M. S. (Maxwell Stephens)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55747'
     url: http://www.gutenberg.org/2009/agents/55747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70409#Vacuum-cleaning-systems-b-A-treatise-on-the-principles-and-practice-of-mechanical-cleaning
 gutenberg_issued: '2023-03-29'
 identifiers:
   gutenberg: '70409'
